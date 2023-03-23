@@ -1,0 +1,2 @@
+- name: r-asymptotic-testing
+  uses: SiyaoIsHiding/r-asymptotic-testing@v1
